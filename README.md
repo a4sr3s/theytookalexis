@@ -4,7 +4,7 @@
 
 Experienced Sales/Solution Engineer with an extensive background on multi cloud deployments and migrations. Wide-Ranging expertise in open source solutions, Docker, Kubernetes, Centos and Red hat Linux distributions. Technical expertise primarily focused on VMware, Centos/Red hat, DigitalOcean, AWS, GCP and Azure Cloud deployments.
 
-* [DigitalOcean](https://www.digitalocean.com/) - Senior Solutions Engineer
+* [DigitalOcean](https://www.digitalocean.com/) - Manager,  Solutions Engineering
 * [CogecoPeer1/Aptum](https://www.aptum.com/) - Systems Engineer
 * [Telefonica](https://www.telefonica.com/) - Systems Engineer
 * [Mount Sinai](https://www.msmc.com/) - Network Analyst
